@@ -95,6 +95,21 @@ body {
     padding: 7px;
 }
 
+.CV {
+    margin: -100px 0 10px;
+    text-align: center;
+    font-size: 13px;
+}
+
+.experiencia h3 {
+    color: #8EB486;
+    font-family: var(--headline-font-family);
+    font-size: 25px;
+    font-weight: normal;
+    font-weight: 400;
+    margin: 0 0 16px
+}
+
 .main {
     height: 100%;
     max-width: 610px;
